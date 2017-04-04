@@ -5,3 +5,4 @@
 npm
 node
 hot module replacement (HMR)
+clean version
