@@ -3,7 +3,7 @@ import styles from './App.css';
 
 const App = () => (
 <div className={styles.app}>
-<h2>Hellaeazdadazo, azeaze</h2>
+<h2>Sexy</h2>
 </div>
 );
 
